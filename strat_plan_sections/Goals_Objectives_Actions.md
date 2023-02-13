@@ -1,6 +1,6 @@
 # Goals, Objectives, and Actions
 
-**Fill in introduction to GAO Section**
+**Space for GOA Introduciton**
 
 ## Goal 1 (§2805 b3A): Provide leadership and facilitate the development and implementation of geospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme
 
