@@ -3,7 +3,7 @@
 
 ## Purpose: 
 - Establish best practices
-- Employ a systematic approach to creates efficiencies
+- Employ a systematic approach to create administrative efficiencies
    - Ease GDA Compliance
    - Collaborate to define and implement effective administration of NSDI Themes
    - Facilitate Reporting
