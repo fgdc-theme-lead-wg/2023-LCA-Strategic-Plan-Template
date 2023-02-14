@@ -1,6 +1,6 @@
 # Goals, Objectives, and Actions
 
-**Space for GOA Introduciton**
+**Crate GOA introduciton here**
 
 ## Goal 1 (§2805 b3A): Provide leadership and facilitate the development and implementation of geospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme
 
@@ -16,10 +16,10 @@
 * **Queston:** Do we want to link to an implementation plan or a place where the theme tracks progress against actions?
 
 ### Objective 1.2 (§2805 b3Aii): Identify anticipated or needed data standards
-#### Actions 1.2.1 (§2805 b3Aii)
+#### Action 1.2.1 (§2805 b3Aii)
 	
 ### Objective 1.3 (§2805 b3Aiii-I-II): Develop a plan to originate, or adopt , and implement needed standards with relevant community and international practices. The plan shall comply with OMB’s Circular A–119, or any successor. The plan shall be consistent with §2805(b)(3)(B) of the GDA
-#### Actions 1.3.1 (§2805 b3Aiii-I-II)
+#### Action 1.3.1 (§2805 b3Aiii-I-II)
 	
 ## Goal 2 (§2805 b3B): Provide leadership and facilitate the development and implementation of a plan for nationwide population of the National Geospatial Data Asset data theme, which shall—
 
@@ -52,7 +52,7 @@ Action 1.1.? (): (Ei) Designate a point of contact within the lead covered agenc
 
 Action 1.1.? (): (EiiI) Submit a performance report to the FGDC, at least annually, that documents the activities relating to and implementation of the National Geospatial Data Asset data theme, including progress in achieving the requirements under subparagraphs (A), (B), (C), and (D); and
 
-Actions 1.1.? (): (EiiII) Submit to the FGDC comments, as appropriate, regarding the summary and evaluation of the performance report provided by the Committee under section 2802(c)(12) of this title;
+Action 1.1.? (): (EiiII) Submit to the FGDC comments, as appropriate, regarding the summary and evaluation of the performance report provided by the Committee under section 2802(c)(12) of this title;
 
 Action 1.1.? (): (Eiii) Publish maps or comparable graphics online (in accordance with the mapping conventions specified by the Committee) showing the extent and status of the National Geospatial Data Asset data themes for which the covered agency is a lead covered agency;
 
