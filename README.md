@@ -6,4 +6,5 @@
    - Executive Summary
    - Introduction
    - [Goals, Objectives, and Actions](https://github.com/fgdc-theme-lead-wg/2023-LCA-Strategic-Plan-Template/blob/main/strat_plan_sections/Goals_Objectives_Actions.md)
+   - Implementation
    - Conclusion
